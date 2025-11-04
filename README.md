@@ -4,4 +4,6 @@ No projeto você desenvolverá um sistema de aquisição de dados e controle par
 (modelo) de um elevador que atende 4 andares. O movimento do elevador é controlado por um
 microcontrolador PIC16F1827 alimentado com 5V, que atua sobre um motor de corrente contínua.
 
+Outras informações sobre instalação e uso da aplicação no [link](https://github.com/UnB-Embedded-Lab/elevator1x4/tree/main/app)
+
 Licença: MIT
