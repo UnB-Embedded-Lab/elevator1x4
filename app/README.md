@@ -35,4 +35,9 @@ Antes de conectar no aplicativo:
 - Ajuste `MAX_POINTS` e `PLOT_INTERVAL_MS` conforme a taxa de atualização desejada.
 - O algoritmo de controle/filas fica no firmware; o app apenas envia `$OD` e exibe dados.
 
-Licença: MIT
+## 🧰 Licença e autoria
+
+Projeto desenvolvido na **Universidade de Brasília (UnB)**  
+Laboratório de Sistemas Embarcados — Prof. Dr. Guillermo Álvarez Bestard
+
+Uso acadêmico e pesquisa. Cite a fonte em publicações relacionadas.
